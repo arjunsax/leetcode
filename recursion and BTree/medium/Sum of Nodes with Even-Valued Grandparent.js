@@ -7,7 +7,7 @@ var helper = function(arr) {
         }
         sum += elem.val;
     }
-}
+};
 var recursive = function(root) {
     if (root == null) {
         return;
